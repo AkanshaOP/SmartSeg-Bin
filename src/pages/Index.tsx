@@ -68,7 +68,7 @@ const Index = () => {
 
         {/* Footer */}
         <footer className="border-t border-border pt-4 text-center text-xs text-muted-foreground">
-          Circular Waste Intelligence System • Powered by IoT & AI • Smart City Initiative 2026
+          SmartSeg Bin • Powered by IoT & AI • Smart City Initiative 2026
         </footer>
       </div>
     </div>
